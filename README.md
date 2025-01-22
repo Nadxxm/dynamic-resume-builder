@@ -20,4 +20,5 @@ The **Dynamic Resume Builder** is a robust and highly customizable Spring Boot a
 ## Setup Instructions:
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/username/dynamic-resume-builder.git
+   git clone https://github.com/Nadxxm/dynamic-resume-builder.git
+   
